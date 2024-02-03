@@ -6,3 +6,6 @@
 
 
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=grandnative&show_icons=true&theme=synthwave&count_private=true"/>
+
+
+![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=grandnative&layout=compact)
