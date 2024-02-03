@@ -6,3 +6,5 @@ and experience in all aspects of Software Development, including designing, docu
 monitoring, debugging, and troubleshooting.
 
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=grandnative&show_icons=true&theme=dark&count_private=true"/>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=grandnative&show_icons=true&theme=vue-dark)
